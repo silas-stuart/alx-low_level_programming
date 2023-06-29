@@ -4,7 +4,6 @@
  * 5string_toupper - changes all lowercase of the string
  * to uppercases
  * @s: string expected to modify
- *
  * Return: the result string
  */
 
