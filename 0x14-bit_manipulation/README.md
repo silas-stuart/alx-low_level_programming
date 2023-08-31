@@ -30,4 +30,4 @@ You are not allowed to use malloc
 
 7. Program will find password
 --Your file should contain the exact password, no new line, no extra space
---The result julien@ubuntu:~/0x14. Binary$ ./crackme3 `cat 101-password` Congratulations!
+--The resultt julien@ubuntu:~/0x14. Binary$ ./crackme3 `cat 101-password` Congratulations!
