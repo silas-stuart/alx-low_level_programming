@@ -25,4 +25,9 @@ You are not allowed to use malloc
 5. Function that returns the number of bits you would need to flip to get from one number to another.
 --You are not allowed to use the % or / operators
 
+6. This function checks the endianness.
+--Returns: 0 if big endian, 1 if little endian
 
+7. Program will find password
+--Your file should contain the exact password, no new line, no extra space
+--The result julien@ubuntu:~/0x14. Binary$ ./crackme3 `cat 101-password` Congratulations!
