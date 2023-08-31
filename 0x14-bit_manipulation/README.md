@@ -9,3 +9,12 @@
 Prototype: void print_binary(unsigned long int n);
 You are not allowed to use arrays
 You are not allowed to use malloc
+
+2. You can see a function that returns the value of a bit at a given index.
+--index is the index, starting from 0
+--Returns: the value of the bit at index index or -1
+
+3. I had to write function that sets the value of a bit to 1 at a given index.
+--index is the index, starting from 0
+--Returns: 1 if it worked, or -1 if an error occurred
+
