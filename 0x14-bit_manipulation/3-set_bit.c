@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * set_bit - sets a bit of an index to one (algo)
+ * set_bit - function sets a bit of an index to one (algo)
  * @n: pointer of a number to be changed
  * @index: index of a bit to set to one(indexing)
  *

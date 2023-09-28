@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * get_bit - function to return value of bits at index in a baseTen number
+ * get_bit - returns value of bits at index in a baseTen number
  * @n: number to search (algorithm)
  * @index: index of a bit
  *

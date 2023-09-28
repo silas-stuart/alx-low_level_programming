@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_binary - conversion of decimal number to base two
+ * print_binary - function conversion of decimal number to base two
  *
  * @n: int to print in binary
  */

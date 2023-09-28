@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * binary_to_uint - function converts a base two number to unsigned int
+ * binary_to_uint - converts a base two number to unsigned int
  * @b: str that contains the binary number
  *
  * Return: number conversation

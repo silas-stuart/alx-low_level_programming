@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * get_endianness - funtion to check if a machine is little endian
+ * get_endianness - getEnd checks if a machine is little endian
  *
  * Return: 0 for big endian, 1 for little endian
  */
