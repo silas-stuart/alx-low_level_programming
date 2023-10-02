@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
- * create_file - creates a file where the file name is NULL terminated
+ * create_file - create_file to make file name NULL terminated
  * string
- * @filename: pointer of the name of the file to be created.
- * @text_content: A pointer to a string to write to the file created
+ * @filename: pointer file_name to be created.
+ * @text_content: pointer to string of the file created
  *
  * Return: if function fails return -1.
  *         Otherwise 1.
